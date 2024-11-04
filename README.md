@@ -13,3 +13,5 @@ In other words, Playwright is a horizontal improvement over Selenium and Puppete
 
 ### Notes
 - The difference between the Locator and ElementHandle is that the ElementHandle points to a particular element, while Locator captures the logic of how to retrieve an element.
+    https://www.checklyhq.com/blog/understanding-element-handles-and-page-locators/
+- 
